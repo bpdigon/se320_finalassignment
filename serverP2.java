@@ -8,7 +8,7 @@ import java.awt.*;
 import javax.swing.*;
 
 /*
-Final assignment Part 1
+Final assignment Part 2
 Server Client
 Made by: Benigno Digon
 Credit to Dr. Akbas for code templates and examples
